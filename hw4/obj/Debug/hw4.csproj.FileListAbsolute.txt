@@ -1,0 +1,6 @@
+D:\projects\hw4\hw4\bin\Debug\hw4.exe.config
+D:\projects\hw4\hw4\bin\Debug\hw4.exe
+D:\projects\hw4\hw4\bin\Debug\hw4.pdb
+D:\projects\hw4\hw4\obj\Debug\hw4.csprojResolveAssemblyReference.cache
+D:\projects\hw4\hw4\obj\Debug\hw4.exe
+D:\projects\hw4\hw4\obj\Debug\hw4.pdb
